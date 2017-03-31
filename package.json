@@ -1,0 +1,29 @@
+{
+  "name": "arkham-lcg-card-db",
+  "version": "0.0.0",
+  "description": "app per il gioco di carte arkham horror",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dario-deromanis/arkham-lcg-card-db.git"
+  },
+  "author": "Dario De Romanis (dario.deromanis@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dario-deromanis/arkham-lcg-card-db/issues"
+  },
+  "homepage": "https://github.com/dario-deromanis/arkham-lcg-card-db#readme"
+}
