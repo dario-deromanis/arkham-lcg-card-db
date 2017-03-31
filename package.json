@@ -1,6 +1,6 @@
 {
   "name": "arkham-lcg-card-db",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "app per il gioco di carte arkham horror",
   "main": "index.js",
   "directories": {
